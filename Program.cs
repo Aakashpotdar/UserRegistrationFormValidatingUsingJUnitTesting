@@ -6,7 +6,7 @@ namespace UserRegistrationAndJUnit
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("--------*Registration form*--------");
         }
     }
 }
